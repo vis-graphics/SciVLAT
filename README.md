@@ -2,6 +2,8 @@
 
 This is the GitHub repository for the Scientific Visualization Literacy Assessment Test (SciVLAT). 
 
-<a href="https://github.com/vis-graphics/SciVLAT/images">Images</a> folder: This folder contains all the images for the various topics that were selected as part of the SciVLAT. 
+<a href="https://github.com/vis-graphics/SciVLAT/tree/main/images">Images</a> folder: This folder contains all the images for the various topics that were selected as part of the SciVLAT. 
 
-<a href="https://github.com/vis-graphics/SciVLAT/survey">Survey</a> folder: This folder contains links to the SciVLAT as well as the expert feedback form to compute the Content Validity Ratio (CVR). 
+<a href="https://github.com/vis-graphics/SciVLAT/tree/main/survey">Survey</a> folder: This folder contains the SciVLAT assessment in PDF form. The SciVLAT was administered using Qualtrics. 
+
+<a href="https://github.com/vis-graphics/SciVLAT/tree/main/figures">Figures</a> folder: This folder contains all the figures from the paper. 
